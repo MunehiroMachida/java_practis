@@ -1,22 +1,18 @@
-// 問題1
-package example;
-
-public class Mold {
+public class Task1 {
 
 	public static void main(String[] args) {
 
-		String text;
-		text = "テスト";
-		System.out.println(text);
+		String s;
+		s = "テスト";
+		System.out.println("文字列(s)：" + s);
 
-		int number = 100;
-		System.out.println(number);
+		int i = 100;
+		System.out.println("整数(i)：" + i);
 
+		double d = 1.5;
+		System.out.println("浮動小数点数(d)：" + d);
 
-		double  decimal = 1.5;
-		System.out.println(decimal);
-
-		System.out.println(text.length());
+		System.out.println("文字列(s)の長さ：" + s.length());
 	}
 
 }
