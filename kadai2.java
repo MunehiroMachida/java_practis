@@ -1,22 +1,19 @@
-package example;
-
-public class list {
+public class Task2 {
 
     public static void main(String[] args) {
-        int number[];
-        number = new int[5];
+        int list[];
+        list = new int[5];
 
-        number[0] = 1;
-        number[1] = 2;
-        number[2] = 3;
-        number[3] = 4;
-        number[4] = 5;
+        list[0] = 1;
+        list[1] = 2;
+        list[2] = 3;
+        list[3] = 4;
+        list[4] = 5;
 
-        // System.out.println(number[4] % 5);
-        for (int count = 0; count < number.length; ++count) {
-            if (number[count] % 4 == 0) {
+        for (int contents : list) {
+            if (contents % 4 == 0) {
                 System.out.println("4の倍数です");
-            } else if (number[count] % 5 == 0) {
+            } else if (contents % 5 == 0) {
                 System.out.println("5の倍数です");
             }
         }
