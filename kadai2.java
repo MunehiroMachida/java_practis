@@ -1,8 +1,7 @@
 public class Task2 {
 
     public static void main(String[] args) {
-        int list[];
-        list = new int[5];
+        int[] list = new int[5];
 
         list[0] = 1;
         list[1] = 2;
