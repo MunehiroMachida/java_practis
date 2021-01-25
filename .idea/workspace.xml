@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="117df381-82b9-4bc0-bc08-b16b3736c774" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/text/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text/UseCatSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pravtice_progate.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_java/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_java/UseCatSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practis/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.UseCatSample">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="machida.Test" />
       <module name="java_practis" />
@@ -54,8 +55,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UseCatSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="text.UseCatSample" />
+      <module name="java_practis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="text.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UseCatSample" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -94,5 +109,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="環境" />
     <option name="LAST_COMMIT_MESSAGE" value="環境" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/text/UseCatSample.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
