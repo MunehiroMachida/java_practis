@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="117df381-82b9-4bc0-bc08-b16b3736c774" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test_java/ConstructorSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_java/EncapsulaationSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_java/OverloadSample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example2/PublicAccessSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/example2/PublicAccessSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_java/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/test_java/Cat.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_java/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/test_java/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_java/ConstructorSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/test_java/ConstructorSample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611840308636</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="コンストラクター">
+      <created>1611842705762</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611842705762</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,7 +146,8 @@
     <MESSAGE value="セッター/ゲッター" />
     <MESSAGE value="privateに設定" />
     <MESSAGE value="オーバーロード" />
-    <option name="LAST_COMMIT_MESSAGE" value="オーバーロード" />
+    <MESSAGE value="コンストラクター" />
+    <option name="LAST_COMMIT_MESSAGE" value="コンストラクター" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -18,6 +18,11 @@ public class Cat {
         this.age=age;
     }
 
+    public Cat(String name){
+        this(name, 0);
+        System.out.println("コンストクター：Cat(String name)が呼び出された");
+    }
+
     private void printMessage(String mesage){
         System.out.println(name+">"+mesage);
     }
