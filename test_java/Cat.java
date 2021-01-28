@@ -1,9 +1,22 @@
 package test_java;
 
 public class Cat {
-    String name;
-    int age;
-    boolean hungry;
+    private  String name;
+    private  int age;
+    private  boolean hungry;
+
+
+    public Cat(){
+        System.out.println("コンストラクター:Cat()が呼び出された");
+        this.name = "まだない";
+        this.age=0;
+    }
+
+    public Cat(String name, int age){
+        System.out.println("コンストラクター:Cat(String name, int age)が呼び出された");
+        this.name = name;
+        this.age=age;
+    }
 
     private void printMessage(String mesage){
         System.out.println(name+">"+mesage);
@@ -15,6 +28,13 @@ printMessage("ご飯を食べるよ");
 printMessage("お腹がいっぱいになった");
     }
 
+    public void eat(String food){
+        printMessage(food+"ご飯を食べるよ");
+        printMessage("お腹がいっぱいになった");
+        hungry = false;
+    }
+
+
     public boolean isHungry(){
         return hungry;
     }
@@ -23,8 +43,14 @@ printMessage("お腹がいっぱいになった");
         printMessage(toy+"で遊ぶよタオ");
         printMessage("遊んでお腹が減った");
         hungry = true;
-
     }
+
+    public void  playToy() {
+        printMessage("で遊ぶよタオ");
+        printMessage("遊んでお腹が減った");
+        hungry = true;
+    }
+
 
     public void setName(String catName){
         name = catName;
@@ -43,7 +69,7 @@ printMessage("お腹がいっぱいになった");
     }
 
     public  void introduceMyself(){
-     printMessage("名前は"*getName()+"です、"+getAge()+"歳です。");
+     printMessage("名前は"+getName()+"です、"+getAge()+"歳です。");
     }
 
 }
