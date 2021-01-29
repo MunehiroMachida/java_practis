@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="117df381-82b9-4bc0-bc08-b16b3736c774" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test_java/Cat2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_java/InterfaceSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_java/Pet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_java/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/test_java/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_java/ConstructorSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/test_java/ConstructorSample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -125,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611842705762</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="コンストラクター_出力文字列修正">
+      <created>1611844304743</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1611844304743</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,7 +156,8 @@
     <MESSAGE value="privateに設定" />
     <MESSAGE value="オーバーロード" />
     <MESSAGE value="コンストラクター" />
-    <option name="LAST_COMMIT_MESSAGE" value="コンストラクター" />
+    <MESSAGE value="コンストラクター_出力文字列修正" />
+    <option name="LAST_COMMIT_MESSAGE" value="コンストラクター_出力文字列修正" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
