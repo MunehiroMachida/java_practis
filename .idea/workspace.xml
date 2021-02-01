@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="117df381-82b9-4bc0-bc08-b16b3736c774" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test_java/Cat2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_java/InterfaceSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_java/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_java/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_java/InterfaceSample2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611844304743</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="インターフェース">
+      <created>1611896619103</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1611896619103</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,7 +163,8 @@
     <MESSAGE value="オーバーロード" />
     <MESSAGE value="コンストラクター" />
     <MESSAGE value="コンストラクター_出力文字列修正" />
-    <option name="LAST_COMMIT_MESSAGE" value="コンストラクター_出力文字列修正" />
+    <MESSAGE value="インターフェース" />
+    <option name="LAST_COMMIT_MESSAGE" value="インターフェース" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
