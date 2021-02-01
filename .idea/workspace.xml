@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="117df381-82b9-4bc0-bc08-b16b3736c774" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test_java/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_java/InterfaceSample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_java/PolymorphismSmple.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611896619103</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Dogクラスの作成">
+      <created>1612183534694</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1612183534694</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,7 +170,8 @@
     <MESSAGE value="コンストラクター" />
     <MESSAGE value="コンストラクター_出力文字列修正" />
     <MESSAGE value="インターフェース" />
-    <option name="LAST_COMMIT_MESSAGE" value="インターフェース" />
+    <MESSAGE value="Dogクラスの作成" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dogクラスの作成" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
